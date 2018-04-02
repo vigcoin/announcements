@@ -12,9 +12,9 @@ VIG Coin在造币技术上的创新短期是不会发生的。最多是集成原
 
 VIG Coin更加关注：
 
-1、随时随地的真实支付，内建的、P2P的法币交易能力（即加密币的内建交易所能力）
-2、重构中小企业的支付基础设施
-3、加密币的持久运营
+1. 随时随地的真实支付，内建的、P2P的法币交易能力（即加密币的内建交易所能力）
+2. 重构中小企业的支付基础设施
+3. 加密币的持久运营
 
 以上述几个主要目标，是创建VIG Coin的根本原因。
 
@@ -23,12 +23,12 @@ VIG Coin的钱包，内建交易所能力将会全部开源。只有针对个人
 如果你对这个项目感兴趣，欢迎您的参与。
 
 ## 关于VIG COIN
-发行量： 100,000,000
-官网：https://vigcoin.org
-矿池：https://pools.vigcoin.org
-钱包： 目前支持Windows 64 位和Linux 64位
-（未来会支持Android）
+发行量： 100,000,000  
+官网：https://vigcoin.org  
+矿池：https://pools.vigcoin.org  
+钱包： 目前支持Windows 64 位和Linux 64位  
+（未来会支持Android）  
+  
+源码：https://github.com/vigcoin  
 
-源码：https://github.com/vigcoin
-
-预挖：20%
+预挖：20%  
